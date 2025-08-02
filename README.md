@@ -185,7 +185,7 @@ This project demonstrates advanced understanding of:
 ## 📞 Contact
 
 **김태수 (Taesu Kim)**  
-![Profile](docs/images/taesu_profile.jpg)  
+<img src="docs/images/taesu_profile.jpg" width="150" height="150" style="border-radius: 50%;" />  
 Backend Developer & AI Enthusiast  
 📧 gimtaesu399@gmail.com 
 🔗 [GitHub](https://github.com/gimtaesu399)
