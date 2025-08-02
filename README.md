@@ -16,25 +16,32 @@ This project demonstrates the development of a **production-ready insurance clai
 
 ## 🚀 Core Features
 
-### 🎥 **System Demo**
-![System Demo](docs/images/demo-video.gif)
-
-*Complete demonstration of the insurance claim review system - from document upload to AI analysis and claim processing*
-
 ### 🚀 **Onboarding Experience**
 ![Onboarding Demo](docs/images/onboarding-demo.gif)
 
 *Interactive onboarding flow showing user role selection and system introduction*
 
-### 👤 **User Interface Demo**
-![User UI Demo](docs/images/user-ui-demo.gif)
+### 👤 **User Interface System Demo**
+![User UI Demo 1](docs/images/user-ui-demo.gif)
 
-*Customer portal demonstration - document upload, OCR processing, and claim submission workflow*
+*Customer portal demonstration - document upload and OCR processing*
 
-### 👨‍💼 **Admin Interface Demo**
-![Admin UI Demo](docs/images/admin-ui-demo.gif)
+![User UI Demo 2](docs/images/demo-video.gif)
 
-*Administrator dashboard showing claim management, monitoring, and analytics features*
+*Complete user workflow - from document upload to claim submission*
+
+![User UI Demo 3](docs/images/admin-ui-demo.gif)
+
+*Advanced user features and claim processing workflow*
+
+### 👨‍💼 **Admin Interface System Demo**
+![Admin UI Demo 1](docs/images/admin1.gif)
+
+*Administrator dashboard showing claim management and monitoring features*
+
+![Admin UI Demo 2](docs/images/admin2.gif)
+
+*Advanced admin analytics and system management interface*
 
 ### 🖥️ **User Interface**
 ![Main UI](docs/images/main.png)
@@ -380,14 +387,8 @@ This project demonstrates advanced understanding of:
 
 **김태수 (Taesu Kim)**  
 Backend Developer & AI Enthusiast  
-📧 taesu.kim@email.com  
+📧 gimtaesu399@gmail.com  
 🔗 [GitHub](https://github.com/gimtaesu399)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
