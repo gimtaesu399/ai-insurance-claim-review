@@ -186,7 +186,7 @@ This project demonstrates advanced understanding of:
 
 **김태수 (Taesu Kim)**  
 <img src="docs/images/taesu_profile.jpg" width="150" height="150" style="border-radius: 50%;" />  
-Backend Developer & AI Enthusiast  
+Backend Developer  
 📧 gimtaesu399@gmail.com 
 🔗 [GitHub](https://github.com/gimtaesu399)
 
