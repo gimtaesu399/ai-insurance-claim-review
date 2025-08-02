@@ -64,8 +64,8 @@ As the **Backend Developer**, I designed and implemented an **MVP (Minimum Viabl
 | Component | Technology | Purpose |
 |-----------|------------|---------|
 | **Backend** | FastAPI, Python 3.11+ | High-performance async API framework |
-| **Database** | PostgreSQL, Redis | Primary database with caching |
-| **AI/ML** | ResNet18, PyTorch, OpenCV | Custom forgery detection & OCR |
+| **Database** | PostgreSQL, SQLAlchemy | Primary database with ORM |
+| **AI/ML** | ResNet18, PyTorch, OpenCV, Solar OCR, Tesseract, Claude 3.5 Sonnet | Custom forgery detection & OCR |
 | **Deployment** | Docker Compose, Nginx | Multi-container orchestration |
 | **Storage** | Cloud Storage | Image and document storage |
 | **Frontend** | React 18, Vite | Modern UI *(Collaborated with Frontend Developer)* |
@@ -89,7 +89,9 @@ As the **Backend Developer**, I designed and implemented an **MVP (Minimum Viabl
 ### **Custom AI Models**
 - **ResNet18 for Forgery Detection**: Custom-trained model achieving 95%+ accuracy
 - **Error Level Analysis (ELA)**: Image manipulation detection algorithm
-- **Solar OCR**: Multi-language text extraction (Korean/English)
+- **Solar OCR**: Medical document and receipt text extraction (Korean/English)
+- **Tesseract OCR**: Additional text extraction support
+- **Claude 3.5 Sonnet**: Advanced text analysis and processing
 - **Real-time Processing**: <500ms inference time for complex operations
 
 ### **Technical Achievements**
@@ -127,15 +129,14 @@ This project demonstrates advanced understanding of:
 ## 🏆 Technical Skills Demonstrated
 
 ### **Programming & Development**
-- **Python**: FastAPI, PyTorch, OpenCV, Celery
-- **JavaScript/TypeScript**: Node.js, Express (Backend APIs)
-- **SQL**: PostgreSQL, Redis, Database design
+- **Python**: FastAPI, PyTorch, OpenCV, SQLAlchemy
+- **SQL**: PostgreSQL, Database design with ORM
 - **DevOps**: Docker, Cloud deployment, CI/CD
 
 ### **AI/ML Technologies**
 - **Computer Vision**: OpenCV, PIL, Image processing
 - **Deep Learning**: PyTorch, ResNet18, Custom model training
-- **OCR**: Solar OCR, Tesseract, Text extraction
+- **OCR**: Solar OCR, Tesseract, Claude 3.5 Sonnet, Text extraction
 - **Data Processing**: Pandas, NumPy, JSON processing
 
 ### **System Design**
