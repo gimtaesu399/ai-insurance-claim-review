@@ -66,7 +66,8 @@ As the **Backend Developer**, I designed and implemented an **MVP (Minimum Viabl
 | **Backend** | FastAPI, Python 3.11+ | High-performance async API framework |
 | **Database** | PostgreSQL, Redis | Primary database with caching |
 | **AI/ML** | ResNet18, PyTorch, OpenCV | Custom forgery detection & OCR |
-| **Deployment** | Docker, Nginx | Containerized cloud deployment |
+| **Deployment** | Docker Compose, Nginx | Multi-container orchestration |
+| **Storage** | Cloud Storage | Image and document storage |
 | **Frontend** | React 18, Vite | Modern UI *(Collaborated with Frontend Developer)* |
 
 ---
@@ -140,6 +141,8 @@ This project demonstrates advanced understanding of:
 ### **System Design**
 - **Microservices**: API-first architecture
 - **Database Design**: Relational modeling, Indexing
+- **Containerization**: Docker Compose for multi-container deployment
+- **Cloud Storage**: Image and document storage in cloud
 - **Security**: JWT, RBAC, Input validation
 - **Performance**: Caching, Async processing, Load balancing
 
