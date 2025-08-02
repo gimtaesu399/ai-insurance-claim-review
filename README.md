@@ -73,7 +73,7 @@ This project demonstrates the development of a **production-ready insurance clai
 ## 🏗️ Technical Architecture
 
 ### **System Architecture Diagram**
-![System Architecture](docs/images/system-architecture.png)
+![System Architecture](docs/images/system.png)
 
 *High-level system architecture showing the interaction between frontend, backend, AI models, and database components*
 
@@ -273,7 +273,7 @@ docker-compose -f docker-compose.test.yml up --abort-on-container-exit
 ## 📊 Monitoring & Analytics
 
 ### **Real-time Monitoring Dashboard**
-![Advisor Monitoring](docs/images/advisor-monitoring.png)
+![Advisor Monitoring](docs/images/cadvisor.png)
 
 *Real-time monitoring dashboard showing system performance, claim processing status, and AI model metrics*
 
