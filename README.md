@@ -22,17 +22,17 @@ This project demonstrates the development of a **production-ready insurance clai
 *Interactive onboarding flow showing user role selection and system introduction*
 
 ### 👤 **User Interface System Demo**
-![User UI Demo 1](docs/images/admin-ui-demo.gif)
+![User UI Demo 1](docs/images/user-ui-demo.gif)
+
+*Customer portal demonstration - document upload and OCR processing*
+
+![User UI Demo 2](docs/images/admin-ui-demo.gif)
 
 *Advanced user features and claim processing workflow*
 
-![User UI Demo 2](docs/images/demo-video.gif)
+![User UI Demo 3](docs/images/demo-video.gif)
 
 *Complete user workflow - from document upload to claim submission*
-
-![User UI Demo 3](docs/images/user-ui-demo.gif)
-
-*Customer portal demonstration - document upload and OCR processing*
 
 ### 👨‍💼 **Admin Interface System Demo**
 ![Admin UI Demo 1](docs/images/admin-new.gif)
