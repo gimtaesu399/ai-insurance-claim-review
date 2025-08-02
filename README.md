@@ -65,7 +65,7 @@ As the **Backend Developer**, I designed and implemented an **MVP (Minimum Viabl
 |-----------|------------|---------|
 | **Backend** | FastAPI, Python 3.11+ | High-performance async API framework |
 | **Database** | PostgreSQL, SQLAlchemy | Primary database with ORM |
-| **AI/ML** | ResNet18, PyTorch, OpenCV, Solar OCR, Tesseract, Claude 3.5 Sonnet | Custom forgery detection & OCR |
+| **AI/ML** | ResNet18, PyTorch, OpenCV, PyMuPDF, Solar OCR, Claude 3.5 Sonnet | Custom forgery detection & OCR |
 | **Deployment** | Docker Compose, Nginx | Multi-container orchestration |
 | **Storage** | Cloud Storage | Image and document storage |
 | **Frontend** | React 18, Vite | Modern UI *(Collaborated with Frontend Developer)* |
@@ -89,8 +89,8 @@ As the **Backend Developer**, I designed and implemented an **MVP (Minimum Viabl
 ### **Custom AI Models**
 - **ResNet18 for Forgery Detection**: Custom-trained model achieving 95%+ accuracy
 - **Error Level Analysis (ELA)**: Image manipulation detection algorithm
+- **PyMuPDF**: PDF text extraction and document processing
 - **Solar OCR**: Medical document and receipt text extraction (Korean/English)
-- **Tesseract OCR**: Additional text extraction support
 - **Claude 3.5 Sonnet**: Advanced text analysis and processing
 - **Real-time Processing**: <500ms inference time for complex operations
 
@@ -136,7 +136,8 @@ This project demonstrates advanced understanding of:
 ### **AI/ML Technologies**
 - **Computer Vision**: OpenCV, PIL, Image processing
 - **Deep Learning**: PyTorch, ResNet18, Custom model training
-- **OCR**: Solar OCR, Tesseract, Claude 3.5 Sonnet, Text extraction
+- **Document Processing**: PyMuPDF, PDF text extraction
+- **OCR**: Solar OCR, Claude 3.5 Sonnet, Text extraction
 - **Data Processing**: Pandas, NumPy, JSON processing
 
 ### **System Design**
