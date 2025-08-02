@@ -17,31 +17,31 @@ This project demonstrates the development of a **production-ready insurance clai
 ## 🚀 Core Features
 
 ### 🚀 **Onboarding Experience**
-![Onboarding Demo](docs/images/onboarding-demo.gif)
+![Onboarding Demo](docs/images/onboarding.gif)
 
 *Interactive onboarding flow showing user role selection and system introduction*
 
 ### 👤 **User Interface System Demo**
-![User UI Demo 1](docs/images/user-ui-demo.gif)
+![User UI Demo 1](docs/images/user1.gif)
 
-*Customer portal demonstration - document upload and OCR processing*
+*Document upload demonstration - medical certificates and receipts attachment*
 
-![User UI Demo 2](docs/images/demo-video.gif)
+![User UI Demo 2](docs/images/user2.gif)
 
-*Complete user workflow - from document upload to claim submission*
+*Forgery analysis demonstration using AI-powered detection*
 
-![User UI Demo 3](docs/images/admin-ui-demo.gif)
+![User UI Demo 3](docs/images/user3.gif)
 
-*Advanced user features and claim processing workflow*
+*Complete claim process - OCR processing and claim submission workflow*
 
 ### 👨‍💼 **Admin Interface System Demo**
-![Admin UI Demo 1](docs/images/admin-new.gif)
+![Admin UI Demo 1](docs/images/admin1.gif)
 
-*Administrator dashboard showing claim management and monitoring features*
+*JWT token authentication and claim review results demonstration*
 
 ![Admin UI Demo 2](docs/images/admin2.gif)
 
-*Advanced admin analytics and system management interface*
+*Detailed claim information and management interface*
 
 ### 🖥️ **User Interface**
 ![Main UI](docs/images/main.png)
