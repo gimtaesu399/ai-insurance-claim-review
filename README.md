@@ -16,6 +16,11 @@ This project demonstrates the development of a **production-ready insurance clai
 
 ## 🚀 Core Features
 
+### 🚀 **Onboarding Experience**
+![Onboarding Demo](docs/images/onboarding-demo.gif)
+
+*Interactive onboarding flow showing user role selection and system introduction*
+
 ### 👤 **User Interface System Demo**
 ![User UI Demo 1](docs/images/user-ui-demo.gif)
 
@@ -28,11 +33,6 @@ This project demonstrates the development of a **production-ready insurance clai
 ![User UI Demo 3](docs/images/admin-ui-demo.gif)
 
 *Advanced user features and claim processing workflow*
-
-### 🚀 **Onboarding Experience**
-![Onboarding Demo](docs/images/onboarding-demo.gif)
-
-*Interactive onboarding flow showing user role selection and system introduction*
 
 ### 👨‍💼 **Admin Interface System Demo**
 ![Admin UI Demo 1](docs/images/admin-new.gif)
