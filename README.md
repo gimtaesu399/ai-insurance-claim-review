@@ -12,7 +12,7 @@ A Korean Kyobo Life branch manager requested an **automated insurance claim revi
 - **Customer Experience**: Long waiting times (2-3 weeks) for claim resolution
 
 ### **Solution**
-As the **Backend Developer**, I designed and implemented an **MVP (Minimum Viable Product)** insurance claim review system using dummy data to demonstrate the core functionality. The system leverages cutting-edge AI technologies to automate the traditionally manual process of insurance claim assessment.
+As the **Backend Developer** in a 6-person team, I designed and implemented an **MVP (Minimum Viable Product)** insurance claim review system using dummy data to demonstrate the core functionality. The system leverages cutting-edge AI technologies to automate the traditionally manual process of insurance claim assessment.
 
 ---
 
@@ -61,14 +61,14 @@ As the **Backend Developer**, I designed and implemented an **MVP (Minimum Viabl
 
 ### **Technology Stack**
 
-| Component | Technology | Purpose |
-|-----------|------------|---------|
-| **Backend** | FastAPI, Python 3.11+ | High-performance async API framework |
-| **Database** | PostgreSQL, SQLAlchemy | Primary database with ORM |
-| **AI/ML** | ResNet18, PyTorch, OpenCV, PyMuPDF, Solar OCR, Claude 3.5 Sonnet | Custom forgery detection & OCR |
-| **Deployment** | Docker Compose, Nginx | Multi-container orchestration |
-| **Storage** | Cloud Storage | Image and document storage |
-| **Frontend** | React 18, Vite | Modern UI *(Collaborated with Frontend Developer)* |
+| Field | Technology | Purpose |
+|-------|------------|---------|
+| **Frontend** | React, Vite, Styled Components, Chart.js, Axios, React Router, ESLint, Prettier | Modern UI *(Collaborated with Frontend Developer)* |
+| **Backend** | FastAPI, Python, JWT, PyMuPDF, Pillow, Requests, Faker | High-performance async API framework |
+| **Database** | PostgreSQL, SQLAlchemy, Alembic | Primary database with ORM |
+| **AI/ML** | OpenAI GPT-4, Upstage AI, PyTorch, ResNet18, OpenCV, Solar OCR, Claude 3.5 Sonnet, ELA Analysis | Custom forgery detection & OCR |
+| **DevOps** | Docker, Nginx, GitHub Actions, Google Cloud Platform | Multi-container orchestration |
+| **Monitoring** | Prometheus, Jaeger, OpenTelemetry, cAdvisor, Node Exporter, Grafana | System monitoring and observability |
 
 ---
 
@@ -165,7 +165,9 @@ This project demonstrates advanced understanding of:
 - **Security Implementation**: Implemented comprehensive security measures
 
 ### **Leadership & Collaboration**
-- **Project Management**: Led development of complex AI system from concept to deployment
+- **Team Project**: Collaborated with 6-person team (Frontend, Backend, DevOps)
+- **Role Division**: Backend development with API design and AI integration
+- **Project Management**: Led backend development of complex AI system from concept to deployment
 - **Technical Documentation**: Created comprehensive documentation for team collaboration
 - **Code Quality**: Maintained high code quality standards with 90%+ test coverage
 
@@ -194,6 +196,16 @@ This project demonstrates advanced understanding of:
 Backend Developer  
 📧 gimtaesu399@gmail.com 
 🔗 [GitHub](https://github.com/gimtaesu399)
+
+---
+
+## 👥 Team Project
+
+This project was developed as part of the **2025 Summer Bootcamp Team H** with 6 team members:
+
+- **Team Repository**: [2025-Summer-Bootcamp-Team-H](https://github.com/2025-Summer-Bootcamp-Team-H)
+- **Role**: Backend Developer (AI/ML Integration, API Design)
+- **Collaboration**: Frontend, Backend, DevOps team coordination
 
 ---
 
