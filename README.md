@@ -113,10 +113,10 @@ This project demonstrates advanced understanding of:
 - Performance optimization for ML models
 
 ### **Software Engineering**
-- Full-stack development and system architecture
-- Microservices design and implementation
-- Database design and optimization
-- Cloud deployment and DevOps practices
+- Backend development and system architecture
+- Database design (PostgreSQL) and optimization
+- Docker deployment and DevOps practices
+- Coordinated frontend-backend integration
 
 ### **Problem-Solving Skills**
 - Complex system design and implementation
